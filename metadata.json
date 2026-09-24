@@ -1,0 +1,6 @@
+{
+  "name": "EduSupport — Student Support & Ticket Management",
+  "description": "Comprehensive college and university support ticket management platform for students, support staff, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
